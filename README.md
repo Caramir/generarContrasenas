@@ -9,4 +9,4 @@ Ejecución
 
 pip install -r requerimientos.txt
 cd generarContrasenas
-py generador.py
+py generador.py 

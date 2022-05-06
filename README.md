@@ -8,4 +8,5 @@ git clone https://github.com/Caramir/generarContrasenas
 Ejecución
 
 pip install -r requerimientos.txt
+
 py generador.py
